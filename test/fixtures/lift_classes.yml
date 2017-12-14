@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group: MyString
+  reps: 1
+  lift_class: one
+
+two:
+  group: MyString
+  reps: 1
+  lift_class: two
